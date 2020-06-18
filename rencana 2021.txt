@@ -3,6 +3,7 @@ Rencana 2021
  *Mulai Buat Web
  *Mulai belajar hosting
   ^ Coba-coba hosting
+  ^ Praktek
 -Belajar Framework
  *Belajar Laravel
 -Belajar lebih lanjut database
