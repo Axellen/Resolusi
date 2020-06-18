@@ -2,5 +2,7 @@ Rencana 2021
 -Buat Web Development
  *Mulai Buat Web
  *Mulai belajar hosting
+  ^ Belajar dasar-dasar hosting
+  ^ Belajar bagaimana hosting bekerja
 -Belajar Framework
 -Belajar lebih lanjut database
