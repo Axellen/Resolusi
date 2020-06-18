@@ -3,3 +3,4 @@ Rencana 2021
  *Mulai Buat Web
  *Mulai belajar hosting
 -Belajar Framework
+-Belajar lebih lanjut database
